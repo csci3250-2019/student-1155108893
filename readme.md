@@ -37,3 +37,6 @@ i played the following games
 | TOB  | dungeon maker|
 
 These are just example of a few of games that i played.
+
+![screenshot1](https://github.com/csci3250-2019/student-1155108893/blob/master/screenshot1.PNG)  
+![screenshot2](https://github.com/csci3250-2019/student-1155108893/blob/master/screenshot2.PNG)
